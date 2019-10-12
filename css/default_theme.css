@@ -1,0 +1,46 @@
+/***** start default theme ****/
+/*  start navbar link */
+.navbar-inverse .navbar-brand {
+    
+    color:powderblue;
+    
+}
+.navbar-inverse .navbar-nav > li > a
+{
+    color:powderblue;
+}
+
+
+.dropdown-menu > li > a {
+    color: powderblue;
+}
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus 
+{color: powderblue;}
+
+/*  end navbar link */
+
+/* start about */
+.about .lead { powderblue;}
+/*end about */
+
+/*start testimonials */
+.testimonials .carousel-indicators li {
+    
+    border: 2px solid powderblue;
+    
+}
+/*end testimonials */
+/*start footer*/
+.footer h3
+{
+    color: powderblue;
+    
+}
+
+.footer .copyright span
+{
+    color: powderblue;
+}
+/*end footer*/
+

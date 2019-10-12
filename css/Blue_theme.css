@@ -1,0 +1,46 @@
+/***** start default theme ****/
+/*  start navbar link */
+.navbar-inverse .navbar-brand {
+    
+    color:blue;
+    
+}
+.navbar-inverse .navbar-nav > li > a
+{
+    color: blue;
+}
+
+
+.dropdown-menu > li > a {
+    color: blue;
+}
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus 
+{color: blue;}
+
+/*  end navbar link */
+
+/* start about */
+.about .lead { color: blue;}
+/*end about */
+
+/*start testimonials */
+.testimonials .carousel-indicators li {
+    
+    border: 2px solid blue;
+    
+}
+/*end testimonials */
+/*start footer*/
+.footer h3
+{
+    color: blue;
+    
+}
+
+.footer .copyright span
+{
+    color: blue;
+}
+/*end footer*/
+
